@@ -1,0 +1,28 @@
+{
+  "name": "react-gh-emojis",
+  "version": "1.0.0",
+  "description": "Github emojify strings for React apps",
+  "main": "react-gh-emojis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eveningkid/react-gh-emojis.git"
+  },
+  "keywords": [
+    "react",
+    "emoji",
+    "github",
+    "emojis"
+  ],
+  "author": "eveningkid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eveningkid/react-gh-emojis/issues"
+  },
+  "homepage": "https://github.com/eveningkid/react-gh-emojis#readme",
+  "dependencies": {
+    "react": "^15.4.2"
+  }
+}
