@@ -2,7 +2,7 @@
   "name": "react-gh-emojis",
   "version": "1.0.0",
   "description": "Github emoji strings parsed for React apps! 🌟",
-  "main": "react-gh-emojis.js",
+  "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,5 +24,12 @@
   "homepage": "https://github.com/eveningkid/react-gh-emojis#readme",
   "dependencies": {
     "react": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
   }
 }
