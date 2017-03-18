@@ -1,7 +1,7 @@
 {
   "name": "react-gh-emojis",
   "version": "1.0.0",
-  "description": "Github emojify strings for React apps",
+  "description": "Github emoji strings parsed for React apps! 🌟",
   "main": "react-gh-emojis.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
